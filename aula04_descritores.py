@@ -253,7 +253,7 @@ if __name__ == "__main__":
 
     for arquivo in arquivos:
 
-        with open('resultado.txt', 'a+') as fileTxt:
+        with open('resultado-aula04-descritores.txt', 'a+') as fileTxt:
         # Imprime os elementos da lista
             for elemento in resultados:
                 fileTxt.write(str(elemento) + ',')
