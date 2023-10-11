@@ -5,7 +5,7 @@
 
 ### Aula 01
 Faça um programa que peça ao usuário o nome de um arquivo (imagem) e uma opção de menu, e faça a conversão das imagens para o espaço de cor selecionado. 
-- Mostre também cada um dos canais do espaço de cor escolhido.
+- Mostre também cada um dos canais do espaço de cor escolhido
 - Gere os histogramas de cada um dos canais
 - Salve todas as imagens geradas
 
@@ -16,7 +16,7 @@ A ferramenta criada permite:
 
 ### Aula 03
 Duas ferramentas foram criadas:
-- Consegue a partir da imagem disponibilizada, contar quantas galinhas existem no retângulo indicado. É mostrado o passo-a-passo.
+- Consegue a partir da imagem disponibilizada, contar quantas galinhas existem no retângulo indicado. É mostrado o passo-a-passo
 - Consegue a partir da imagem disponibilizada, criar uma nova imagem binária que apresente todas as bochas. É mostrado o passo-a-passo
 
 ### Aula 04

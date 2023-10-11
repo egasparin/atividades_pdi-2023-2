@@ -1,8 +1,4 @@
-#!opencv-headless/bin/python3
-
-## O QUE FALTA FAZER: 
-## - APRESENTAR OS VALORES DOS ARGUMENTOS DO METODO: KERNEL, LIMIAR ..
-## - ALTERAR OS VALORES AO SELECIONAR NA LISTA
+#!../opencv-headless/bin/python3
 
 
 import sys
